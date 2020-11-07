@@ -1,6 +1,6 @@
 # Flutter_Restaurant
 
-Flutter Restaurant Booking App UI with Custom Navigatin Drawer.
+Flutter Restaurant Booking App UI with Custom Navigation Drawer.
 
 ## Getting Started
 
