@@ -1,6 +1,6 @@
-# flutter_reciepe
+# Flutter_Restaurant
 
-A new Flutter application.
+Flutter Restaurant Booking App UI with Custom Navigatin Drawer.
 
 ## Getting Started
 
